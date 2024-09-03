@@ -47,12 +47,6 @@ export default function DashboardLayout({ children }: IDashboard) {
             <div>
               <h4 className="font-medium">Statoshi</h4>
             </div>
-
-            <div>
-              {/* <Button  className="text-gray-500 hover:text-gray-700 bg-red-600 text-white" onClick={logout}>
-                Logout
-              </Button> */}
-            </div>
           </div>
         </div>
       </header>
