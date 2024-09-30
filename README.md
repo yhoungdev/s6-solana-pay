@@ -21,6 +21,11 @@ This is a simple project for a Point-of-Sale (POS) system that allows adding pro
 - Dark mode support
 
 
+#### PROCESS 
+* Load the Page ( YOu would see product list )
+* Open a product 
+* Click on the Buy now button to open Solana pay QR code
+
 ## Products Lists
 
 ![Screenshot from 2024-09-29 01-47-34](https://github.com/user-attachments/assets/6abe4a1e-c328-44eb-8460-4ce662cfc59f)
